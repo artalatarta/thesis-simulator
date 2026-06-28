@@ -254,7 +254,7 @@ $RECYCLE.BIN/
 # End of https://www.toptal.com/developers/gitignore/api/python,macos,windows,linux
 
 # Project outputs
-# /output
+/output
 
 # full log file that's too large for github
 /output/**/full.log
