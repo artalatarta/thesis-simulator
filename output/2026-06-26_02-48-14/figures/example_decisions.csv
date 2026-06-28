@@ -1,0 +1,4 @@
+failure_mode,decision_id,conflict_id,conflict_types,conflict_window,selected_diagnosis_id,selected_action,expected_action,matched_truth_source,derived_issue_attribution_status
+active_action_correct,resolution-conflict-Body-Welding-Cell-t48-1,conflict-Body-Welding-Cell-t48-1,"['diagnosis', 'action']","{'start': 48.0, 'end': 52.0}",temperature:Body-Welding-Cell:overheating,start_cooling,start_cooling,physical_state,not_derived_issue
+passive_after_root_handled,resolution-conflict-line-t364-1,conflict-line-t364-1,['diagnosis'],"{'start': 364.0, 'end': 368.0}",belt:Body-Welding-Cell:Paint-Booth:persistent_queue_pressure,wait_for_more_evidence,fix_belt_jam,derived_issue,attributed_to_root
+passive_without_root_handling,resolution-conflict-line-t476-1,conflict-line-t476-1,['diagnosis'],"{'start': 476.0, 'end': 480.0}",machine:Sheet-Metal-Press:production_blocked,wait_for_more_evidence,,derived_issue,no_root_cause_found

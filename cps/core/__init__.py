@@ -1,0 +1,1 @@
+"""Core simulation domain objects."""

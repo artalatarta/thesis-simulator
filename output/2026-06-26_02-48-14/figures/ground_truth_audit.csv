@@ -1,0 +1,11 @@
+measure,value
+all_faults,130
+root_faults,77
+derived_issues,35
+physical_state_issues,18
+detection_evaluable_faults,95
+evaluation_role:root_fault,77
+evaluation_role:derived_issue_context,35
+evaluation_role:physical_state_response,18
+evaluable_rows,130
+duplicate_diagnosis_groups,0

@@ -1,0 +1,6 @@
+line-length = 180
+exclude = [".agents/skills/**"]
+
+[format]
+quote-style = "double"
+indent-style = "tab"

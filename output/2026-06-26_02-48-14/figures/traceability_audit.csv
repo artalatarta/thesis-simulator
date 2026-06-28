@@ -1,0 +1,6 @@
+measure,value,numerator,denominator
+conflict_report_ids_resolve,1.0,5393,5393
+decision_support_ids_resolve,1.0,5393,5393
+agent_action_report_ids_resolve,1.0,1639,1639
+runtime_report_id_uniqueness,1.0,20198,20198
+decision_to_conflict_match_rate,1.0,2673,2673
